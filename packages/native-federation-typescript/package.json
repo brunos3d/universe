@@ -1,6 +1,6 @@
 {
   "name": "@bruno-module-federation/native-federation-typescript",
-  "version": "0.2.6",
+  "version": "1.0.0",
   "description": "Bundler agnostic unplugin to share federated types",
   "keywords": [
     "module federation",
