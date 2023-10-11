@@ -1,6 +1,6 @@
 {
   "name": "@bruno-module-federation/native-federation-tests",
-  "version": "0.2.1",
+  "version": "1.0.0",
   "description": "Bundler agnostic unplugin to share federated tests",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
